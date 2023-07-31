@@ -1,4 +1,3 @@
-import pandas
 import openpyxl
 
 # Excelファイルの読み込み
